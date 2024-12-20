@@ -1,3 +1,5 @@
 streamlit
 moviepy
 SpeechRecognition
+opencv-python 
+speechrecognition
