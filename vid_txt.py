@@ -81,6 +81,7 @@ if uploaded_video:
 st.markdown(
     """
     <br><br>
-    <h5 style='text-align: center;'>Made with ❤️ by Daanish Mittal</h5>
+    <h5 style='text-align: center;'>Made with ❤️ by <a href='https://github.com/daanishmittal24' target='_blank'>Daanish Mittal</a></h5>
     """, unsafe_allow_html=True
 )
+
