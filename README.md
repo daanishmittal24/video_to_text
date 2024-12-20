@@ -7,6 +7,9 @@ This is a simple web application that converts video content into text using spe
 You can try out the app live here:  
 [Video to Text Conversion App](https://video-to-text-convert.streamlit.app/)
 
+![image](https://github.com/user-attachments/assets/de088d8f-ad14-4dd9-b16f-fef82d43ea6b)
+
+
 ## Features
 
 - Upload a video file, and it will extract the audio.
